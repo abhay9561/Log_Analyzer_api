@@ -8,6 +8,15 @@ This project refactors a legacy Python implementation that suffered from Out-Of-
 
 ---
 
+## Video Walkthrough
+
+A complete walkthrough of the project, architecture, implementation, API demonstration, and testing.
+
+🎥 Video Link:
+https://drive.google.com/file/d/1Zqcb4ohE7hXeUmyF-ww_QQiD9VuLENWx/view?usp=sharing
+
+---
+
 ## Problem Statement
 
 The legacy implementation had the following issues:
