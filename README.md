@@ -78,6 +78,7 @@ log-analyzer/
 
 ## Application Flow
 
+```text
 User Uploads Log File
         ↓
 FastAPI Endpoint (/analyze-logs)
@@ -91,6 +92,7 @@ Apply Business Rules
 Flag Suspicious Transactions
         ↓
 JSON Response
+```
 
 ---
 
