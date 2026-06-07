@@ -76,6 +76,24 @@ log-analyzer/
 
 ---
 
+## Application Flow
+
+User Uploads Log File
+        ↓
+FastAPI Endpoint (/analyze-logs)
+        ↓
+LogAnalyzer Class
+        ↓
+Generator-Based Processing
+        ↓
+Apply Business Rules
+        ↓
+Flag Suspicious Transactions
+        ↓
+JSON Response
+
+---
+
 ## Installation
 
 ### Clone Repository
@@ -398,3 +416,5 @@ The test suite validates:
 **Abhay Tale**
 
 AI/ML Engineer | Data Science Enthusiast | Python Developer
+
+
